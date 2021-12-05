@@ -1,0 +1,7 @@
+# Executables
+./day1
+
+# Normal routine
+*.o
+*.out
+*~
