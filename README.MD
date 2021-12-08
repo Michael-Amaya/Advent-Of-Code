@@ -4,7 +4,7 @@ I am creating this repo to store my solutions for the Adventure of Code months. 
 ## December 2021
 Day 1 - :heavy_check_mark:
 
-Day 2 - :x:
+Day 2 - :heavy_check_mark:
 
 Day 3 - :x:
 
@@ -12,3 +12,8 @@ Day 4 - :x:
 
 Day 5 - :x:
 
+Day 6 - :x:
+
+Day 7 - :x:
+
+Day 8 - :x:
