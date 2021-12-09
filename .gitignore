@@ -6,3 +6,4 @@ day2
 *.o
 *.out
 *~
+.DS_Store
