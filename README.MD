@@ -8,7 +8,7 @@ Day 2 - :heavy_check_mark:
 
 Day 3 - :heavy_check_mark:
 
-Day 4 - :x:
+Day 4 - :heavy_check_mark:
 
 Day 5 - :x:
 
@@ -17,3 +17,7 @@ Day 6 - :x:
 Day 7 - :x:
 
 Day 8 - :x:
+
+Day 9 - :x:
+
+Day 10 - :x:
