@@ -17,7 +17,7 @@ Day 3 - :heavy_check_mark:
 
 Day 4 - :heavy_check_mark:
 
-Day 5 - :exclamation:
+Day 5 - :heavy_check_mark:
 
 Day 6 - :x:
 
