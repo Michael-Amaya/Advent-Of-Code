@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Werror -pedantic-errors --std=c99
-TARGETS = day1 day2 day3 day4 day5
+TARGETS = day1 day2 day3 day4 day5 day6
 
 all: ${TARGETS}
 
@@ -17,6 +17,9 @@ day4: day4.o utilities.o
 	${CC} -o $@ $^ ${CFLAGS}
 
 day5: day5.o utilities.o
+	${CC} -o $@ $^ ${CFLAGS}
+
+day6: day6.o utilities.o
 	${CC} -o $@ $^ ${CFLAGS}
 
 clean:
